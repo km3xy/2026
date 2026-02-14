@@ -2,6 +2,11 @@
 $
 
 
+帮助中心
+
+https://xmind.cn/getting-help
+
+
 📱 Xmind 手机免费版（Xmind ZEN）
  
 🔗 官方下载入口
